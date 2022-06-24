@@ -3,19 +3,23 @@
 </div>
 <div align="center" id="badges">
   <a href ="https://www.linkedin.com/in/vince-gasimov/">
-    <img src="https://img.shields.io/badge/VINCE-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Janette-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" height="150"/>
 </div>
+
 ---
+
 ### :man_technologist: About Me : I am a Automation QA Engineer from USA. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for testing web applications.
 - :zap: I have solid experience with Automated Testing, Selenium WebDriver, and API Testing tolls.
 - :seedling: Exploring New Technologies And Tools.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Janette-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/janette-bayle/)
+
 ---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>&nbsp;
@@ -34,7 +38,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   
 </div>
+
 ---
+
 ### :fire: My Stats :
 <div align="center">
   
@@ -52,15 +58,4 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vince-gasimov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
-
-
-
-
-
-
-
-
-
-
-
 
