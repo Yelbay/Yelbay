@@ -6,23 +6,33 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-​
+
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="200"/>
 </div>
-​
+
+
 ---
-​
+
+
 ### :man_technologist: About Me : I am a Automation QA Engineer from USA. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for testing web applications.
-​
+
+
 - :seedling: Exploring Technical Content Writing.
-​
+
+
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-​
+
+
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vince-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vince-gasimov/)
+
+
+
 ---
-​
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
