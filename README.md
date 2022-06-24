@@ -44,12 +44,12 @@
 ### :fire: My Stats :
 <div align="center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yelbay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yelbay&theme=light)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
 <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yelbay&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yelbay&theme=light)](https://git.io/streak-stats)
   
   </div>
   
