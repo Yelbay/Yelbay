@@ -26,7 +26,7 @@
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vince-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vince-gasimov/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vince-blue?style=flat&logo=Linkedin&logoColor=white)]([)](https://www.linkedin.com/in/janette-bayle/)
 
 
 
@@ -51,4 +51,4 @@
  
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vince-gasimov)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yelbay)](https://github.com/anuraghazra/github-readme-stats)
