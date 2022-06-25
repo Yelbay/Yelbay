@@ -7,7 +7,7 @@
   </a>
 </div>
 <div align="center">
-  <img src=" https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" width="200" height="150"/>
+  <img src="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE " width="200" height="150"/>
 </div>
 
 ---
