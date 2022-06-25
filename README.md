@@ -12,7 +12,7 @@
 
 ---
 
-### :man_technologist: About Me : I am a Automation QA Engineer from USA. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### :man_technologist: About Me : I am a Automation QA Engineer from Canada. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a Software QA Engineer and contributing to frontend and backend for testing web applications.
 - :zap: I have solid experience with Automated Testing, Selenium WebDriver, and API Testing tolls.
 - :seedling: Exploring New Technologies And Tools.
