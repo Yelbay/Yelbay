@@ -7,7 +7,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" height="150"/>
+  <img src="https://giphy.com/gifs/digipen-programming-computer-science-game-school-3IqEvVpFUMmll1h5Ri/giphy.gif" width="200" height="150"/>
 </div>
 
 ---
