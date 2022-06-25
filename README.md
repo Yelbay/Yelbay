@@ -7,7 +7,7 @@
   </a>
 </div>
 <div align="center">
-  <img src= "https://giphy.com/gifs/uB86ZyWQsnFSGYe2sA" width="200" height="150"/>
+  <img src="https://www.digipen.edu/showcase/news/why-is-a-digipen-computer-science-education-different" width="200" height="150"/>
 </div>
 
 ---
