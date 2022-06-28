@@ -7,7 +7,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="200" height="150"/>
+  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="250" height="200"/>
 </div>
 
 ---
