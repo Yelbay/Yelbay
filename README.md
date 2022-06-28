@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/3oFzmrqRPhYnFg9oGs/giphy.gif?cid=ecf05e47drh044po6pfu4tkr4lherj5v7yd3exzaumcms25t&rid=giphy.gif&ct=g" width="200"/>
+  <img src="https://media2.giphy.com/media/i4jKn7itdV2Tvjzj6Y/giphy.gif?cid=ecf05e47drh044po6pfu4tkr4lherj5v7yd3exzaumcms25t&rid=giphy.gif&ct=g" width="200"/>
 </div>
 <div align="center" id="badges">
   <a href ="https://www.linkedin.com/in/janette-bayle/">
