@@ -7,7 +7,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://giphy.com/gifs/technology-earth-communications-U4FkC2VqpeNRHjTDQ5/giphy.gif" width="200" height="150"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" height="150"/>
 </div>
 
 ---
